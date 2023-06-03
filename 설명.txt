@@ -1,0 +1,43 @@
+하이
+
+
+host : db.hyeonung.gabia.io
+user : hyeonung
+password : hyeonung@@1234
+db :dbhyeonung
+
+theme/basic
+
+index
+header.sub
+taill.sub
+header
+taill
+
+
+보이죠? 네네 
+
+위에 써놓은 파일이 지금 보는 화면 구성이거든요 
+
+저거 파악해보시고
+
+있네요 오케이?넵 !!
+
+free board  test ok? 네!
+
+theme/basic/skin/board/basic
+
+ok? 네! 
+
+이제 저 게시판을 뜯어보고 질문하고 하면 됩니다.
+
+이게 구조가 엄청 직접적이에요 보시면
+
+
+끝났을 때 왜 경로 파일이 저기에 있고, 
+리스트 파일 글쓰기 파일 보기 파일이 어떻게 구성 되어 있는지
+저한테 설명할 줄 알아야합니다.
+오케이?
+넵!! 
+
+write_update 중요 !!
